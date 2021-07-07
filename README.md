@@ -1,4 +1,4 @@
-### Hi there :smile:
+### Hi there 👋🏼
 
 <!--
 **CristinaOe/CristinaOe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Cristina a <strong>full-stack</strong> developer currenlty based in Berlin.
+
+<p> 🇦🇷 I was born and raised in Argentina </p>
+<p>:mortar_board: I graduated from Le Wagon</p>
+<p>🔭 I'm working on personal projects</p>
+<p>:books: I'm always learning</p>
