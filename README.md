@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Cristina a <strong>full-stack</strong> developer currenlty based in Berlin.
+I'm Cristina, a <strong>full-stack</strong> developer currenlty based in Berlin.
 
 <p> 🇦🇷 I was born and raised in Argentina </p>
 <p>:mortar_board: I graduated from Le Wagon</p>
