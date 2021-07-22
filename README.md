@@ -21,3 +21,6 @@ I'm Cristina, a <strong>full-stack</strong> developer currenlty based in Berlin.
 <p>:mortar_board: I graduated from Le Wagon</p>
 <p>🔭 I'm working on personal projects</p>
 <p>:books: I'm always learning</p>
+
+
+<p> Come by www.cristina-oechsle.com 🐉</p>
