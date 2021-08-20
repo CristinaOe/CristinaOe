@@ -26,5 +26,5 @@ I'm Cristina, a <strong>full-stack</strong> developer currenlty based in Berlin.
 <p> Come by www.cristina-oechsle.com 🐉</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinaoe&layout=compact)](https://github.com/CristinaOe?tab=repositories)
 
