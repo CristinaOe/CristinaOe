@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Cristina, a <strong>full-stack</strong> developer currenlty based in Berlin.
 
-<p> 🇦🇷 I was born and raised in Argentina </p>
+<p> 🇦🇷 I was born and bred in Argentina </p>
 <p>:mortar_board: I graduated from Le Wagon</p>
 <p>🔭 I'm working on personal projects</p>
 <p>:books: I'm always learning</p>
